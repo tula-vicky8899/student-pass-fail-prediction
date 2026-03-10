@@ -25,7 +25,7 @@ The dataset contains student-related information such as study habits, scores, o
 student-pass-fail-prediction  
 │  
 ├── main_project.ipynb  
-├── dataset.csv  
+├── student_data.csv  
 └── README.md  
 
 ## Future Improvements
